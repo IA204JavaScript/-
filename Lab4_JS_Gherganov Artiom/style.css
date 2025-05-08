@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+tr.income {
+  background-color: #d4edda;
+}
+
+tr.expense {
+  background-color: #f8d7da;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  padding: 8px;
+}
+
+button {
+  cursor: pointer;
+}
